@@ -1,17 +1,1 @@
-{
-  "name": "report-bot",
-  "version": "1.0.0",
-  "description": "Telegram bot for reporting scams",
-  "main": "bot.js",
-  "scripts": {
-    "start": "node bot.js"
-  },
-  "keywords": [
-    "telegram",
-    "bot",
-    "report",
-    "scam"
-  ],
-  "author": "Your Name",
-  "license": "MIT"
-}
+npm init -y
